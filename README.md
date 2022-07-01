@@ -1,4 +1,4 @@
-### Hi I'm software developer. 👋
+### Hi, I'm software developer. 👋
 
 <!--
 **wideastore/wideastore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
